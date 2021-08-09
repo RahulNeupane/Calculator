@@ -1,0 +1,21 @@
+// touch .gitignore
+
+git config --global uder.name "My usename"
+git config --global uder.email "My email"
+
+git init
+git add .
+git commit -m "Initial commit"
+
+git status //just to see
+
+
+
+get this key from  get ssh key github search on web
+--->ssh-keygen -t ed25519 -C  "My email" 
+
+copy public key starting from /c...... and add  to github account
+
+cat paste public key
+git remote add origin copy and paste address of repository
+git push orgin master
