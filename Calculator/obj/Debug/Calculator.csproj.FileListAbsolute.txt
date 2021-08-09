@@ -1,0 +1,19 @@
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\rahul\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.New_calculator.resources
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Rahul\Desktop\C# workdone\Calculator\Calculator\obj\Debug\Calculator.pdb
